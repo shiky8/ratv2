@@ -1,0 +1,11 @@
+C:\Users\20127\source\repos\ratv1.0\ratv1.0\bin\Debug\netcoreapp3.0\ratv1.0.exe
+C:\Users\20127\source\repos\ratv1.0\ratv1.0\bin\Debug\netcoreapp3.0\ratv1.0.deps.json
+C:\Users\20127\source\repos\ratv1.0\ratv1.0\bin\Debug\netcoreapp3.0\ratv1.0.runtimeconfig.json
+C:\Users\20127\source\repos\ratv1.0\ratv1.0\bin\Debug\netcoreapp3.0\ratv1.0.runtimeconfig.dev.json
+C:\Users\20127\source\repos\ratv1.0\ratv1.0\bin\Debug\netcoreapp3.0\ratv1.0.dll
+C:\Users\20127\source\repos\ratv1.0\ratv1.0\bin\Debug\netcoreapp3.0\ratv1.0.pdb
+C:\Users\20127\source\repos\ratv1.0\ratv1.0\obj\Debug\netcoreapp3.0\ratv1.0.csprojAssemblyReference.cache
+C:\Users\20127\source\repos\ratv1.0\ratv1.0\obj\Debug\netcoreapp3.0\ratv1.0.AssemblyInfoInputs.cache
+C:\Users\20127\source\repos\ratv1.0\ratv1.0\obj\Debug\netcoreapp3.0\ratv1.0.AssemblyInfo.cs
+C:\Users\20127\source\repos\ratv1.0\ratv1.0\obj\Debug\netcoreapp3.0\ratv1.0.dll
+C:\Users\20127\source\repos\ratv1.0\ratv1.0\obj\Debug\netcoreapp3.0\ratv1.0.pdb
